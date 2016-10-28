@@ -181,7 +181,7 @@ function wppie_user_head(){
 				  'post_title'    	=> wp_strip_all_tags( $content->title ),
 				  'post_content'  	=> $content->descr,
 				  'post_status'   	=> 'publish',
-				  'post_author'   	=> 1
+				  'post_author'   	=> 1,
 				  'post_type'		=> $post_type
 				);
 								

@@ -190,6 +190,8 @@ function wppie_user_head(){
 			}
 
 		}
+
+		echo 'Success';
 		
 	}
 
